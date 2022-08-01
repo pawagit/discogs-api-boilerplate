@@ -1,5 +1,5 @@
 # Discogs API - Google Apps Script Boilerplate
-## Basic functionality to fetch information from the Discogs API for each item in a spradsheet iwth resume functionality
+## Basic functions to fetch information from the Discogs API for each item in a spradsheet. With resume functionality.
 
 ### Keywords 
 `discogs-api`  `resume`  `spreadsheet`  `google-sheets`  `google-apps-script`  `trigger`  `batch-process`  `maximum-execution-time`  `bulk-process` 
